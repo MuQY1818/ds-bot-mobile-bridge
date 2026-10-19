@@ -1,12 +1,16 @@
 <div align="center">
 
+<p><img src="docs/images/whale-mark.png" width="360" alt="DS Bot Mobile Bridge whale and connection-arch mark"></p>
+
 # DS Bot Mobile Bridge
 
 Device authentication and scoped message transport for your existing DS Bot team.
 
-[![CI](https://github.com/MuQY1818/ds-bot-mobile-bridge/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/MuQY1818/ds-bot-mobile-bridge/actions/workflows/check.yml)
-[![Preview](https://img.shields.io/badge/preview-0.0.6-6f62d8)](https://github.com/MuQY1818/ds-bot-mobile-bridge/releases)
-[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+<p>
+  <a href="https://github.com/MuQY1818/ds-bot-mobile-bridge/actions/workflows/check.yml"><img src="https://github.com/MuQY1818/ds-bot-mobile-bridge/actions/workflows/check.yml/badge.svg?branch=main" alt="CI"></a>
+  <a href="https://github.com/MuQY1818/ds-bot-mobile-bridge/releases"><img src="https://img.shields.io/badge/preview-0.0.6-6f62d8" alt="Preview"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue" alt="License: Apache-2.0"></a>
+</p>
 
 [简体中文](README.md) · [Documentation](docs/README.md) · [Configuration](docs/configuration.md) · [Development](docs/development.md) · [Downloads](https://github.com/MuQY1818/ds-bot-mobile-bridge/releases) · [Issues](https://github.com/MuQY1818/ds-bot-mobile-bridge/issues)
 
