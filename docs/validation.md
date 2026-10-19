@@ -18,4 +18,6 @@ The pristine npm DS Bot 0.1.7 rejection is intentional. The reviewed fixture pat
 - The public DSH / reviewed DS Bot / scripted-model fixture passed **17 integration assertions**, including group attribution, hidden-session refusal, stable receipts, redaction, reconnection and scoped operations. Its two child services stopped cleanly.
 - Local documentation links resolve, and the source allowlist/privacy audit reports no findings.
 
-Exact package delivery is recorded separately after the committed archive is tested. The CI badge reports the configured GitHub workflow; no remote CI run or production installation is claimed by these local results.
+The exact **47,970-byte** `ds-bot-mobile-bridge-0.0.6.tgz` passed **11 packed delivery assertions** in a fresh public DSH profile. All 20 packaged files matched the source allowlist. The check covered ordinary plugin discovery, inert configuration defaults, owner authentication and origin refusal, actual pairing approval, Bot/group access, stable text receipts, restart persistence, credential revocation, listener shutdown and package removal with canonical Bot/Session identity preserved. All five child service instances started during delivery stopped cleanly.
+
+The final audit covers source, reachable commit history and package members, with no findings. The CI badge reports the configured GitHub workflow; no remote CI run or production installation is claimed by these local results. The extraction did not modify an App/Web checkout, a live DSH profile, phone, simulator or device state.
