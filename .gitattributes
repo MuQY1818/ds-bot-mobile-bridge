@@ -1,0 +1,2 @@
+# Reviewed patch context is retained byte-for-byte from the source tree.
+*.patch whitespace=-blank-at-eol

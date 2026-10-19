@@ -1,0 +1,17 @@
+node_modules/
+fixture/
+artifacts/
+*.log
+*.tgz
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
+*.pem
+*.key
+*.p12
+*.p8
+profiles/
+sessions/

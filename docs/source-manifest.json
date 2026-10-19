@@ -1,0 +1,18 @@
+{
+  "repository": "https://github.com/MuQY1818/ds-bot-mobile-app",
+  "commit": "92d9b452b49e8e52211015d11a3b1a93a38d4dfa",
+  "tree": "2abbd0ef92cc6c08012ca8568c6a862c5269e5c7",
+  "packageVersion": "0.0.6",
+  "files": {
+    "index.mjs": "ed17793e1406efc2810be2ee5f5c3b43a287beb1651873b76d015ac7490268a3",
+    "src/actions.mjs": "1eaa6b9f6ecadbff401b1c134da4ee43024cb1208f0f6f01c1c61d0df10ea9df",
+    "src/adapter.mjs": "7272b3ca3ed929adf953d781e46968fe9767719271d8c02c1ac44d47413ccb9b",
+    "src/auth.js": "d65652ce444b6a8c19f3e10b923efd3e522481b3d74369058f6177a5ccf68386",
+    "src/config.mjs": "233faa587541fef76fa5f05d3ab42e56b9ab84681fb3e85535edffd9e2c39c75",
+    "src/group-projection.mjs": "f41d9d72244e3239eedc3b152ea5237acddd806f74956191055a12423884d86a",
+    "src/operator.mjs": "423a1fc0db55c2d993ee8568a8fbb737e43e1d65345fdc5b35d891de1f5aa22f",
+    "src/project-avatar.mjs": "6e1f8398e1769dbaf14e889e75a81e1804b25476cdbf02fa2bb81ecf53674737",
+    "src/projection.js": "cecd9d0ed8088132a2a6f7b7bffc705fd13138880467b5d353455cd8bb3f895d",
+    "src/server.js": "dcfdd65774f4f8e46f63ccb7b9116784bf23b68f2bf30258b04507ac69c8fab2"
+  }
+}
