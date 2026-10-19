@@ -12,7 +12,7 @@
 
 </div>
 
-DS Bot Mobile Bridge 是安装在电脑 DSH 中的独立插件，为 [DS Bot Mobile App](https://github.com/MuQY1818/ds-bot-mobile-app) 提供设备配对、受限授权、Bot／群文字历史、消息提交和回执。它使用现有团队的公开会话接口，无需另建团队。
+DS Bot Mobile Bridge 是安装在电脑 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（DSH）中的独立插件，为 [DS Bot Mobile App](https://github.com/MuQY1818/ds-bot-mobile-app) 提供设备配对、受限授权、Bot／群文字历史、消息提交和回执。它使用现有团队的公开会话接口，无需另建团队。
 
 当前版本为 **0.0.6 独立插件预览**，适配 DSH **0.2.1-rc.2** 与提供兼容 Bridge 接口的 DS Bot。这里维护传输服务；手机界面和电脑上的配对管理界面由 App 仓库维护。仅用手机浏览器时，请安装 [Mobile Web](https://github.com/MuQY1818/ds-bot-mobile-web)，无需 Bridge。
 

@@ -12,7 +12,7 @@ Device authentication and scoped message transport for your existing DS Bot team
 
 </div>
 
-Mobile Bridge is an independent computer-side DSH plugin for [DS Bot Mobile App](https://github.com/MuQY1818/ds-bot-mobile-app). It provides device pairing, scoped authorization, Bot/group text history, message submission and receipts through the existing team's public session APIs.
+Mobile Bridge is an independent computer-side [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DSH) plugin for [DS Bot Mobile App](https://github.com/MuQY1818/ds-bot-mobile-app). It provides device pairing, scoped authorization, Bot/group text history, message submission and receipts through the existing team's public session APIs.
 
 The current independent plugin preview is **0.0.6**, targeting DSH **0.2.1-rc.2** and a DS Bot installation that provides the compatible Bridge contract. The App repository owns the phone client and computer-side pairing interface. For phone browser access, use [Mobile Web](https://github.com/MuQY1818/ds-bot-mobile-web); Bridge is unnecessary.
 

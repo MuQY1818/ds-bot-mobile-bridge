@@ -4,7 +4,7 @@ Mobile Bridge 是原生 App 的电脑端传输插件。只使用 [Mobile Web](ht
 
 ## 配置顺序
 
-1. 确认 DS Bot 提供兼容 Bridge 接口；原版 npm `0.1.7` 不包含所需接口，发布页提供明确标识的兼容包。
+1. 确认 DS Bot 提供兼容 Bridge 接口；原版 npm `0.1.7` 不包含所需接口，[App 发布页](https://github.com/MuQY1818/ds-bot-mobile-app/releases/tag/v0.1.7-preview.1)提供明确标识的兼容包。
 2. 在现有 DSH 插件管理器安装并启用 Bridge。
 3. 按[配置示例](../cordis.patch.example.yml)设置专用存储和监听，由已有网络入口提供 HTTPS。
 4. 安装并启用 App 配套插件，在 **手机访问 → App** 刷新，确认“连接服务已就绪”。
